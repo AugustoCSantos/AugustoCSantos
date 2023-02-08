@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning:
 <img align="center" alt="Rafa-cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 - 📫 How to reach me: 
 <div>
