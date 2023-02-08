@@ -16,8 +16,9 @@
 </div>
 
 - Stats:
-<div>
-<a href="https://github.com/AugustoCSantos">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCSantos&layout=compact&langs_count=7&theme=midnight-purple" style="display:inline-block"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=AugustoCSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" style="display:inline-block"/>
-</div>
+<br/>
+ <div width="100%">
+    <a href="https://github.com/AugustoCSantos/github-readme-stats"><img alt="Augusto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AugustoCSantos&show_icons=true&count_private=true&theme=purple&hide_border=true&bg_color=0D1117&width="50%"" /></a>
+  <a href="https://github.com/AugustoCSantos/github-readme-stats"><img alt="Augusto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCSantos&langs_count=8&count_private=true&layout=compact&theme=purple&hide_border=true&bg_color=0D1117&width="50%"" /></a>
+    </div>
+  <br/>
