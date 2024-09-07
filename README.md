@@ -6,5 +6,5 @@
 ## Hi there 👋
 
 My name is Augusto Santos!
-- 👨‍🎓: Student at **UFRRJ** - Computer Science - 5th Term
-- 👨‍💻: C, Java, Python
+- 👨‍🎓: Student at **UFRRJ** - Computer Science - 6th Term
+  - 👨‍💻: C, Java, Python
