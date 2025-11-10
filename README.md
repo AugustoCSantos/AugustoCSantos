@@ -2,5 +2,5 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:augustocsantos.dev@gmail.com)
 
-- 👨‍🎓: Student at **UFRRJ** - Computer Science - 7th Term
+- 👨‍🎓: Student at **UFRRJ** - Computer Science 
 - 👨‍💻: C, JavaScript
