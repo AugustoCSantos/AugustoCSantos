@@ -8,4 +8,4 @@
 </p>
 
 - 👨‍🎓: Student at **UFRRJ** - Computer Science 
-- 👨‍💻: C, JavaScript
+- 👨‍💻: JavaScript, TypeScript, Node, React, ...
