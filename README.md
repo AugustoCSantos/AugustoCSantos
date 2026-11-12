@@ -4,7 +4,10 @@ Estudante de Ciência da Computação na UFRRJ (8º período) | Estagiário de E
 
 Focado em Engenharia de Software, desenvolvimento de aplicações web escaláveis com o ecossistema **Node.js / TypeScript** e modelagem de bancos de dados relacionais. Atualmente, também pesquiso o impacto de **IA Generativa e Sistemas Multiagentes (MAS)** na Engenharia de Requisitos.
 
-[🔗 LinkedIn](https://www.linkedin.com/in/augustocsantos/) &nbsp;&bull;&nbsp; [📧 Email](mailto:augustocsantos.dev@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/augustocsantos/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:augustocsantos.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
