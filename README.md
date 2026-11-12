@@ -26,12 +26,3 @@ Focado em Engenharia de Software, desenvolvimento de aplicações web escalávei
   <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AugustoCSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCSantos&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
