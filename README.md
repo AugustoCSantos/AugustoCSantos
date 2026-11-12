@@ -1,6 +1,6 @@
 # Olá! Eu sou o Augusto Santos 👋
 
-Estudante de Ciência da Computação na UFRRJ (8º período) | Estagiário de Engenharia de Software
+Estudante de Ciência da Computação na UFRRJ | Estagiário de Engenharia de Software
 
 Focado em Engenharia de Software, desenvolvimento de aplicações web escaláveis com o ecossistema **Node.js / TypeScript** e modelagem de bancos de dados relacionais. Atualmente, também pesquiso o impacto de **IA Generativa e Sistemas Multiagentes (MAS)** na Engenharia de Requisitos.
 
@@ -26,6 +26,6 @@ Focado em Engenharia de Software, desenvolvimento de aplicações web escalávei
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/aws%2lambda-%23FF9900.svg?style=flat&logo=amazonsap&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
 </p>
